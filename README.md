@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Julia Monteiro! ✨
 
-<!--
-**jliamonteiro/jliamonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, atualmente em transição para a área de **Tecnologia da Informação**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias & Ferramentas
+
+Atualmente, estou focada em **Desenvolvimento Web** e **UX/UI**, aprimorando meus conhecimentos nas seguintes tecnologias:
+
+- **React.js**  
+- **HTML, CSS, JavaScript**  
+- **Vite.js**  
+- **Tailwind CSS**  
+- **Git & GitHub**  
+
+## Contato
+Me encontre no [LinkedIn](https://www.linkedin.com/in/julia-monteir0/) ou confira meus projetos no [GitHub](https://github.com/jliamonteiro/jliamonteiro).
+
