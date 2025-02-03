@@ -14,5 +14,5 @@ Atualmente, estou focada em **Desenvolvimento Web** e **UX/UI**, aprimorando meu
 - **Git & GitHub**  
 
 ## Contato
-Me encontre no [LinkedIn](https://www.linkedin.com/in/julia-monteir0/) ou confira meus projetos no [GitHub](https://github.com/jliamonteiro/jliamonteiro).
+Me encontre no [LinkedIn](https://www.linkedin.com/in/julia-monteir0/) 
 
