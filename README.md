@@ -17,5 +17,6 @@ Estudante de ***Análise e Desenvolvimento de Sistemas*** na FIAP, em transiçã
 | ☕ **Java**      |
   
 ## 📬 Contato
+Sinta-se livre para entrar em contato caso tenha alguma oportunidade ou até mesmo interesse em  algum projeto ^^!
 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/julia-monteir0/)
 
