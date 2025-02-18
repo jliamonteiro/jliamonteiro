@@ -6,14 +6,15 @@ Estudante de ***Análise e Desenvolvimento de Sistemas*** na FIAP, em transiçã
 
 "Atualmente, estou focada em **Desenvolvimento Web**, mas estou expandindo meus conhecimentos para o **back-end**, aprimorando minhas habilidades nas seguintes tecnologias:
 
-| **Tecnologia**      |
+| **Tecnologias**      |
 |---------------------|
 | **React.js**        |
 | **HTML, CSS, JS**   |
 | **Typescript**      |
 | **Next.js**         |
 | **Tailwind CSS**    |
-| **Python**
+| **Python**          |
+|**Java**              
 
   
 ## 📬 Contato
