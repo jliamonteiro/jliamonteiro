@@ -8,13 +8,13 @@ Estudante de ***Análise e Desenvolvimento de Sistemas*** na FIAP, em transiçã
 
 | 🚀 Tecnologia      |
 |--------------------|
-| ⚛ **React.js**    |
-| 🌐 **HTML, CSS, JS** |
-| ⚡ **Vite.js**     |
-| ⏭ **Next.js**     |
-| 🎨 **Tailwind CSS** |
-| 🐍 **Python**      |
-| ☕ **Java**      |
+| **React.js**|
+| **HTML, CSS, JS** |
+| **Typescript** |
+| **Next.js**|
+| **Tailwind CSS** |
+| **Python** |
+| **Java** |
   
 ## 📬 Contato
 Sinta-se livre para entrar em contato caso tenha alguma oportunidade ou até mesmo interesse em  algum projeto ^^!
