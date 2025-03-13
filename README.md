@@ -10,7 +10,6 @@ Estudante de ***Análise e Desenvolvimento de Sistemas*** na FIAP, em transiçã
 |---------------------|
 | **React.js**        |
 | **HTML, CSS, JS**   |
-| **Typescript**      |
 | **Next.js**         |
 | **Tailwind CSS**    |
 | **Python**          |
