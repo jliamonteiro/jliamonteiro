@@ -10,7 +10,6 @@
 ###
 
 <div align="left">
-  👩‍💻
   
   Olá! Me chamo **Julia Monteiro** e sou estudante de **Análise e Desenvolvimento de Sistemas** na FIAP. Estou em processo de transição de carreira para a área de **Tecnologia da Informação**, trazendo comigo uma base sólida do setor financeiro, onde desenvolvi habilidades como organização, gestão e comunicação.
   
