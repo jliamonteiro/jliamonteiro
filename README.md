@@ -12,7 +12,7 @@
 <div align="left">
   Olá! Me chamo <strong>Julia Monteiro</strong> e sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na FIAP. Estou em processo de transição de carreira para a área de <strong>Tecnologia da Informação</strong>, trazendo comigo uma base sólida do setor financeiro, onde desenvolvi habilidades como organização, gestão e comunicação.<br><br>
 
-  Atualmente, tenho me dedicado ao desenvolvimento de projetos e ao aprimoramento técnico, com foco especial em <strong>desenvolvimento back-end</strong>. Também possuo conhecimento em tecnologias como <strong>React, HTML, CSS, JavaScript, Tailwind, Git/GitHub, Python, Java, SQL</strong> e <strong>Linux</strong>.<br><br>
+  Atualmente, tenho me dedicado ao desenvolvimento de projetos e ao aprimoramento técnico, com foco especial em <strong>desenvolvimento back-end</strong>. Também possuo conhecimento em tecnologias como <strong>React, HTML, CSS, JavaScript, Git/GitHub, Python, Java, SQL</strong> e <strong>Linux</strong>.<br><br>
 
   Tenho buscado constantemente meu aperfeiçoamento por meio de cursos e formações complementares, como os oferecidos pela <strong>Alura</strong>.<br><br>
 
@@ -31,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="12" />
