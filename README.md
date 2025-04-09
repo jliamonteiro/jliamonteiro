@@ -11,13 +11,8 @@
 
 <div align="left">
   Olá! Me chamo <strong>Julia Monteiro</strong> e sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na FIAP. Estou em processo de transição de carreira para a área de <strong>Tecnologia da Informação</strong>, trazendo comigo uma base sólida do setor financeiro, onde desenvolvi habilidades como organização, gestão e comunicação.<br><br>
-
   Atualmente, tenho me dedicado ao desenvolvimento de projetos e ao aprimoramento técnico, com foco especial em <strong>desenvolvimento back-end</strong>. Também possuo conhecimento em tecnologias como <strong>React, HTML, CSS, JavaScript, Git/GitHub, Python, Java, SQL</strong> e <strong>Linux</strong>.<br><br>
-
-  Tenho buscado constantemente meu aperfeiçoamento por meio de cursos e formações complementares, como os oferecidos pela <strong>Alura</strong>.<br><br>
-
   Minhas principais soft skills incluem: <strong>adaptabilidade, organização, boa comunicação, facilidade de aprendizado</strong> e <strong>colaboração em equipe</strong>.<br><br>
-
   Estou em busca de oportunidades que me desafiem e me permitam continuar aprendendo e contribuindo com projetos reais dentro do universo da tecnologia.
 </div>
 
