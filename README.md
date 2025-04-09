@@ -10,11 +10,21 @@
 ###
 
 <div align="left">
-  🚀 Atualmente curso Análise e Desenvolvimento de Sistemas  
-  💻 Já participei de projetos acadêmicos envolvendo front-end, back-end e integração com chatbot  
-  🔍 Tenho conhecimento em SQL, testes de API com Postman/Insomnia e noções de UX/UI  
-  📊 Experiência com Excel e organização de dados no ambiente corporativo  
-  ✍️ Sempre buscando melhorar minha escrita, comunicação e entrega de projetos com responsabilidade  
+  ### 👩‍💻 Sobre mim
+
+Olá! Me chamo **Julia Monteiro**, sou estudante de **Análise e Desenvolvimento de Sistemas** na FIAP e estou em transição de carreira para a área de **Tecnologia da Informação**. 
+
+Tenho uma bagagem no setor financeiro, onde desenvolvi habilidades como organização, gestão e comunicação — e hoje aplico esse aprendizado na minha jornada tech.
+
+💻 Atualmente, estou me aprofundando em **desenvolvimento back-end**, mas também exploro o front-end com tecnologias como **React, HTML, CSS, JavaScript, Tailwind, Git/GitHub**, além de estudar **Python, Java, SQL** e **Linux**.
+
+🎯 Estou sempre buscando evoluir, participando de formações complementares como as da **Alura** e me desafiando em novos projetos.
+
+✨ Soft skills? Tenho algumas que me acompanham de perto: **adaptabilidade, organização, comunicação e trabalho em equipe**.
+
+Estou aberta a oportunidades onde eu possa **aprender na prática, colaborar com desafios reais** e crescer junto com quem acredita no poder da tecnologia para transformar.
+
+
 </div>
 
 ###
