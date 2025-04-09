@@ -1,22 +1,51 @@
-# Olá, eu sou Julia Monteiro! ✨
+<h2 align="left">Oi 👋! Me chamo Julia e sou estudante de ADS, apaixonada por tecnologia e inovação.</h2>
 
-Estudante de ***Análise e Desenvolvimento de Sistemas*** na FIAP, em transição para a área de Tecnologia da Informação, com foco no desenvolvimento back-end. Apaixonado por tecnologia, busco ampliar meus conhecimentos, explorar novos projetos e aprimorar minhas habilidades para contribuir de forma inovadora no setor. 
+###
 
-## 🚀 Tecnologias & Ferramentas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO_GITHUB&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-"Atualmente, estou focada em **Desenvolvimento Web**, mas estou expandindo meus conhecimentos para o **back-end**, aprimorando minhas habilidades nas seguintes tecnologias:
+###
 
-| **Tecnologias**      |
-|---------------------|
-| **React.js**        |
-| **HTML, CSS, JS**   |
-| **Next.js**         |
-| **Tailwind CSS**    |
-| **Python**          |
-|**Java**              
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-  
-## 📬 Contato
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/julia-monteir0/)
+###
 
-Sinta-se livre para entrar em contato caso tenha alguma oportunidade ou até mesmo interesse em  algum projeto ^^!
+<div align="left">
+  🚀 Atualmente curso Análise e Desenvolvimento de Sistemas  
+  💻 Já participei de projetos acadêmicos envolvendo front-end, back-end e integração com chatbot  
+  🔍 Tenho conhecimento em SQL, testes de API com Postman/Insomnia e noções de UX/UI  
+  📊 Experiência com Excel e organização de dados no ambiente corporativo  
+  ✍️ Sempre buscando melhorar minha escrita, comunicação e entrega de projetos com responsabilidade  
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/SEULINKEDIN" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
