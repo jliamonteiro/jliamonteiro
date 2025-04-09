@@ -10,19 +10,18 @@
 ###
 
 <div align="left">
-  👩‍💻 Sobre mim
+  SOBRE MIM 👩‍💻
   
-  Olá! Me chamo **Julia Monteiro**, sou estudante de **Análise e Desenvolvimento de Sistemas** na FIAP e estou em transição de carreira para a área de **Tecnologia da Informação**. 
+  Olá! Me chamo **Julia Monteiro** e sou estudante de **Análise e Desenvolvimento de Sistemas** na FIAP. Estou em processo de transição de carreira para a área de **Tecnologia da Informação**, trazendo comigo uma base sólida do setor financeiro, onde desenvolvi habilidades como organização, gestão e comunicação.
   
-  Tenho uma bagagem no setor financeiro, onde desenvolvi habilidades como organização, gestão e comunicação — e hoje aplico esse aprendizado na minha jornada tech.
+  Atualmente, tenho me dedicado ao desenvolvimento de projetos e ao aprimoramento técnico, com foco especial em **desenvolvimento back-end**. Também possuo conhecimento em tecnologias como **React, HTML, CSS, JavaScript, Tailwind, Git/GitHub, Python, Java, SQL e Linux**.
   
-  💻 Atualmente, estou me aprofundando em **desenvolvimento back-end**, mas também exploro o front-end com tecnologias como **React, HTML, CSS, JavaScript, Tailwind, Git/GitHub**, além de estudar **Python, Java, SQL** e **Linux**.
+  Tenho buscado constantemente meu aperfeiçoamento por meio de cursos e formações complementares, como os oferecidos pela **Alura**.
   
-  🎯 Estou sempre buscando evoluir, participando de formações complementares como as da **Alura** e me desafiando em novos projetos.
+  Minhas principais soft skills incluem: **adaptabilidade, organização, boa comunicação, facilidade de aprendizado** e **colaboração em equipe**.
   
-  ✨ Soft skills? Tenho algumas que me acompanham de perto: **adaptabilidade, organização, comunicação e trabalho em equipe**.
-  
-  Estou aberta a oportunidades onde eu possa **aprender na prática, colaborar com desafios reais** e crescer junto com quem acredita no poder da tecnologia para transformar.
+  Estou em busca de oportunidades que me desafiem e me permitam continuar aprendendo e contribuindo com projetos reais dentro do universo da tecnologia.
+
 
 
 </div>
