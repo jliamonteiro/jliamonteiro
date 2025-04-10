@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Me chamo Julia e sou estudante de ADS, apaixonada por tecnologia e inovação.</h2>
+<h2 align="left">Oi 👋! Me chamo Julia e sou estudante de ADS</h2>
 
 ###
 
