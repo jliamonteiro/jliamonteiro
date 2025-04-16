@@ -1,10 +1,10 @@
 <h2 align="left">Oi 👋! Me chamo Julia e sou estudante de ADS</h2>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jliamonteiro&show_icons=true&theme=dark)
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jliamonteiro&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jliamonteiro&show_icons=true&theme=dark)
+  
 
 
   
